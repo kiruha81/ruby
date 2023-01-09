@@ -9,3 +9,8 @@ end
 
 taxi = Taxi.new
 taxi.run(5)
+
+def hello
+  if true
+  
+  
